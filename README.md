@@ -8,12 +8,12 @@ $ g++ main.cpp -o firstOpenGlApp -lglut -lGLU -lGL
 $ ./firstOpenGlApp
 
 # COMANDOS 🎮
-$ [ ← ]  - Move camera para esquerda; /br
+$ [ ← ]  - Move camera para esquerda; 
 
-$ [ → ]  - Move camera para direita; /br
+$ [ → ]  - Move camera para direita; 
 
-$ [ ↑ ]  - Retorna a camera para posição inicial; /br
+$ [ ↑ ]  - Retorna a camera para posição inicial; 
 
-$ [ BDM ] - Aproxima o objeto observado; /br
+$ [ BDM ] - Aproxima o objeto observado; 
 
-$ [ BEM ] - Rotaciona o objeto observado; /br
+$ [ BEM ] - Rotaciona o objeto observado;
