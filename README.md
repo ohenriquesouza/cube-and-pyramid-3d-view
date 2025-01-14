@@ -9,7 +9,11 @@ $ ./firstOpenGlApp
 
 # COMANDOS 🎮
 $ [ ← ]  - Move camera para esquerda; /br
+
 $ [ → ]  - Move camera para direita; /br
+
 $ [ ↑ ]  - Retorna a camera para posição inicial; /br
+
 $ [ BDM ] - Aproxima o objeto observado; /br
+
 $ [ BEM ] - Rotaciona o objeto observado; /br
